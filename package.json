@@ -8,7 +8,6 @@
     "dev": "webpack & node server",
     "start": "node server",
     "build": "webpack",
-    "heroku-postbuild": "webpack -p --config ./webpack.prod.config.js --progress"
   },
   "author": "Ahmed Haque",
   "license": "ISC",
